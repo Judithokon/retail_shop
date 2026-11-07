@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: retail_raw
+    description: "This is the source for the retail shop raw tables."
+    database: retail 
+    schema: raw
+    tables:
+      - name: customers
+      - name: orders
+      - name: products
+      - name: order_items
+      - name: payments
+  

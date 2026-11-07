@@ -1,0 +1,41 @@
+product_id,product_name,category,unit_price
+101,Chef's Knife,Kitchen,64.99
+102,Cast Iron Pan,Kitchen,12.0
+103,Mixing Bowl Set,Kitchen,64.99
+104,Coffee Grinder,Kitchen,64.99
+105,Chopping Board,Kitchen,49.99
+106,Spice Rack,Kitchen,4.99
+107,Salad Spinner,Kitchen,4.99
+108,Measuring Jugs,Kitchen,19.99
+109,Linen Cushion,Home,12.0
+110,Throw Blanket,Home,9.99
+111,Table Lamp,Home,49.99
+112,Wall Clock,Home,12.0
+113,Scented Candle,Home,7.5
+114,Plant Pot,Home,39.0
+115,Photo Frame,Home,12.0
+116,Storage Basket,Home,49.99
+117,Baby Carrier,Baby,12.0
+118,Muslin Cloths,Baby,-12.00
+119,Bottle Warmer,Baby,19.99
+120,Play Mat,Baby,9.99
+121,Night Light,Baby,49.99
+122,Bath Thermometer,Baby,4.99
+123,Teething Ring,Baby,14.99
+124,Swaddle Blanket,Baby,9.99
+125,Shea Butter,Beauty,9.99
+126,Hair Bonnet,Beauty,39.0
+127,Face Serum,Beauty,14.99
+128,Wide Tooth Comb,Beauty,9.99
+129,Body Oil,Beauty,7.5
+130,Lip Balm Set,Beauty,64.99
+131,Hand Cream,Beauty,4.99
+132,Satin Pillowcase,Beauty,9.99
+133,Watering Can,Garden,4.99
+134,Pruning Shears,Garden,19.99
+135,Seed Starter Kit,Garden,12.0
+136,Garden Gloves,Garden,49.99
+137,Bird Feeder,Garden,19.99
+138,Hose Reel,Garden,4.99
+139,Solar Lights,Garden,9.99
+140,Kneeling Pad,Garden,14.99
